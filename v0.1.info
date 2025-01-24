@@ -1,11 +1,11 @@
 release-date:0
 compile-date:0
-url:https://github.com/TheNamesJamesYT/aep-versions
+url:https://github.com/TheNamesJamesYT/aep-versions/raw/main/v0.1.jar
 launch-method:
 launch-method-link:
-proxy-args:
+proxy-args:-Dhttp.proxyHost=betacraft.uk -Dhttp.proxyPort=11705
 other-name:Initial Release
-protocolVersion:<PVN of your client, e.g. 14>
+protocolVersion:8
 sha1:
 base-version:
 file-ver:1
