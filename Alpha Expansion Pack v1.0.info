@@ -1,11 +1,11 @@
 release-date:0
 compile-date:0
-url:https://github.com/TheNamesJamesYT/aep-versions/main/Alpha%20Expansion%20Pack%20v1.0.jar
+url:https://github.com/TheNamesJamesYT/aep-versions/main/Alpha%20Expansion%20Pack%20v1.0.zip
 launch-method:
 launch-method-link:
-proxy-args:-Dhttp.proxyHost=betacraft.uk -Dhttp.proxyPort=11705
+proxy-args:
 other-name:Initial Release
 protocolVersion:8
 sha1:
-base-version:
+base-version:a1.1.1
 file-ver:1
